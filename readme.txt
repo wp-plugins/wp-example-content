@@ -44,6 +44,8 @@ Sure won't! It will only erase posts and pages created by this plugin.
 == Screenshots ==
 
 1. This is the admin panel where you can add bundles of posts and pages, or remove all posts and pages created by WP Example Content.
+2. A fresh WordPress install with using WP Example Content to populate pages and posts.
+3. A listing of the pages added by WP Example Content.
 
 
 == Changelog ==

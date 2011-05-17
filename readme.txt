@@ -1,7 +1,7 @@
 === WP Example Content ===
 Contributors: joshferrara, jonathandsimmons
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XK5QHUZD4UP6A
-Tags: dummy, dummy content, content, example, sample, generator, post, page,
+Tags: dummy, dummy content, content, example, sample, generator, post, page, development, theme development, lorem ipsum, lore,
 Requires at least: 1.5
 Tested up to: 3.1
 Stable tag: 1.0

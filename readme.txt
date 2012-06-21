@@ -50,11 +50,11 @@ Sure won't! It will only erase posts and pages created by this plugin.
 
 == Changelog ==
 
-= 1.0 =
-* First release!
-
 = 1.1 =
 * Updated menu position declaration to play nicely with other plugins.
+
+= 1.0 =
+* First release!
 
 == Upgrade Notice ==
 = First release =

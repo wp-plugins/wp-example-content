@@ -53,5 +53,8 @@ Sure won't! It will only erase posts and pages created by this plugin.
 = 1.0 =
 * First release!
 
+= 1.1 =
+* Updated menu position declaration to play nicely with other plugins.
+
 == Upgrade Notice ==
 = First release =

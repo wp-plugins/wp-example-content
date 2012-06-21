@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: dummy content, content, example, sample, development, theme development, lorem ipsum, lorem
 Requires at least: 1.5
 Tested up to: 3.4
-Stable tag: 1.2
+Stable tag: 1.1
 
 Add and remove example post content to assist you in designing and developing new and current themes.
 

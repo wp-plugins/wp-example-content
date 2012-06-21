@@ -27,7 +27,7 @@ add_action('admin_menu', 'example_posts_menu');
 
 // Define new menu page parameters
 function example_posts_menu() {
-	add_menu_page( 'WP Example Content', 'WP Example Content', 'activate_plugins', 'wp-example-content', 'example_posts_options', '', 100 );
+	add_menu_page( 'WP Example Content', 'WP Example Content', 'activate_plugins', 'wp-example-content', 'example_posts_options', '');
 }
 
 // Define new menu page content
